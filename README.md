@@ -1,0 +1,1 @@
+# virtualbox_config_shared_folder_osx
